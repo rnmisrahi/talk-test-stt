@@ -95,13 +95,6 @@ public class VoiceRecognitionActivity extends AppCompatActivity implements
             }
         });
 
-//        toggleButton.setOnClickListener(new View.OnClickListener(){
-//            public void onClick(View v) {
-//                stopped = (toggleButton.isChecked());
-//                //returnedText.setText(transcription);
-//            }
-//        });
-
     }
 
     @Override
